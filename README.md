@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefanny</h1>
-<h3 align="center">A soon to be full stack developer from Brazil</h3>
+<h3 align="center">Full stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Financial Controle**
+- 🔭 I’m currently working on **Financial Control**
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -11,8 +11,7 @@
 
 - ⚡ Fun fact **i've been in more than 23 countries**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p> I have completed my Full-Stack Software Development Certificate at Coding Dojo and completed rigorous full stack training in Python, MERN, Java, and Web Fundamentals. 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
